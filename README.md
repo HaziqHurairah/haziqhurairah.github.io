@@ -9,3 +9,4 @@ Data Analyst @ PETRONAS Digital
 - Impact Project 2
 
 - ### Projects
+- Project 1
