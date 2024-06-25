@@ -1,7 +1,7 @@
 # Data Analyst
 
 ### Work Experience
-Data Analyst @ PETRONAS Digital 
+**Data Analyst @ PETRONAS Digital (September 2022 - Present)** 
 - Managed a team of 4 data analysts and collaborated with cross-functional project members
 - Analysed business data demand for enterprise reporting, dashboards, and analytics requirements
 - Conducted assessment workshop session with entities to gather insights on the entities data landscape
@@ -13,22 +13,17 @@ Data Analyst @ PETRONAS Digital
 - Assessed and documented EDH-Self Serve (Data+) potential fail scenarios for QAQC reactive and proactive mitigation execution plan
 - Drafted proposal for automation of Data+ testing activity which reduces up to 25% manual testing activity
 
-### Projects
-**emb.arc POD4 Data Integration & Reporting**
-- Coordinated data discovery activity for 96 OPUs and 7 internal source systems as the Data Analyst lead
-- Developed assessment template for data discovery activity
-- Produced project deliverables such as data discovery report, fit gap analysis report, final reporting
-- Manage development of common data template for reporting and entities data mapping 
-**Granular Capability Planning (GCP)**
-- Assisted McKinsey for the data dictionary development Enterprise Data Hub (EDH), Data Enablement
-- Enabled Upstream production data from Upstream Surface Data Platform (USDP) into EDH for serving to President’s Dashboard
-- Enabled Innovation Masterclass training data from myLearningX into EDH for Corporate Strategy PowerBI reporting
-- Assisted enablement for Upstream Capability Database Solution (UCDS) integration with myCareerX and EDH
-- Conducted data lineage studies and developed report on HSE Performance KPI, GHG emission KPI and renewable energy capacity KPI to President’s Dashboard
-**Data Delivery Playbook**
-- Assisted in enhancement of the playbook content to include new update as per current work process
+**Junior Data Scientist Apprenticeship (Apr 2022 - June 2022)**
+- Conducted data cleaning and preprocessing activities for exploratory data analysis
+- Build data visualization using Tableau and PowerBI to enhance analytics
+- Utilised machine learning algorithms to address classification and prediction challenges
 
 ### Education
-Bachelor of Engineering in Petroleum Engineering
-Jan 2014 – May 2018 
-Universiti Teknologi PETRONAS Seri Iskandar, Perak
+- B.Eng., Petroleum Engineering | Universiti Teknologi PETRONAS
+
+### Skills
+**Soft Skills**
+Leadership, Communication, Problem-Solving, Adaptability, Collaboration
+
+**Technical Skills**
+Python, SQL, PowerBI, Tableau, M365
