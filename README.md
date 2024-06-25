@@ -23,7 +23,7 @@
 
 ### Skills
 **Soft Skills**
-Leadership, Communication, Problem-Solving, Adaptability, Collaboration
+- Leadership, Communication, Problem-Solving, Adaptability, Collaboration
 
 **Technical Skills**
-Python, SQL, PowerBI, Tableau, M365
+- Python, SQL, PowerBI, Tableau, M365
