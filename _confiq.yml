@@ -1,5 +1,9 @@
 title: Haziq Hurairah Ismail
 logo:
-#description: text below image
+description: Portfolio and Resume
 show_downloads: true 
-theme: jekyll-theme-modernist
+google_analytics: 
+theme: jekyll-theme-minimal
+remote_theme: pages-theme/minimal@v0.2.0
+plugins:
+-jekyll-remote-theme
