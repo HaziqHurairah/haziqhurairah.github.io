@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst / Business Analyst
 
 ### Work Experience
 **Data Analyst @ PETRONAS Digital (September 2022 - Present)** 
