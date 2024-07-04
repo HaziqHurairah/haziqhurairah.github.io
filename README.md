@@ -1,7 +1,8 @@
 # Data Analyst / Business Analyst
 
-### Work Experience
-**Data Analyst @ PETRONAS Digital (September 2022 - Present)** 
+## Work Experience
+### **Data Analyst @ PETRONAS Digital**
+_September 2022 - Present_ 
 - Managed a team of 4 data analysts and collaborated with cross-functional project members
 - Analysed business data demand for enterprise reporting, dashboards, and analytics requirements
 - Conducted assessment workshop session with entities to gather insights on the entities data landscape
@@ -13,13 +14,15 @@
 - Assessed and documented EDH-Self Serve (Data+) potential fail scenarios for QAQC reactive and proactive mitigation execution plan
 - Drafted proposal for automation of Data+ testing activity which reduces up to 25% manual testing activity
 
-**Junior Data Scientist Apprenticeship (Apr 2022 - June 2022)**
+### **Junior Data Scientist Apprenticeship**
+_Apr 2022 - June 2022_
 - Conducted data cleaning and preprocessing activities for exploratory data analysis
 - Build data visualization using Tableau and PowerBI to enhance analytics
 - Utilised machine learning algorithms to address classification and prediction challenges
 
 ### Education
-- B.Eng., Petroleum Engineering | Universiti Teknologi PETRONAS
+B.Eng., Petroleum Engineering
+Universiti Teknologi PETRONAS
 
 ### Skills
 **Soft Skills**
