@@ -1,5 +1,4 @@
 # Data Analyst / Business Analyst
-
 ## Work Experience
 ### **Data Analyst @ PETRONAS Digital**
 _September 2022 - Present_ 
@@ -20,13 +19,13 @@ _Apr 2022 - June 2022_
 - Build data visualization using Tableau and PowerBI to enhance analytics
 - Utilised machine learning algorithms to address classification and prediction challenges
 
-### Education
+## Education
 B.Eng., Petroleum Engineering
 Universiti Teknologi PETRONAS
 
-### Skills
-**Soft Skills**
+## Skills
+### **Soft Skills**
 - Leadership, Communication, Problem-Solving, Adaptability, Collaboration
 
-**Technical Skills**
+### **Technical Skills**
 - Python, SQL, PowerBI, Tableau, M365
