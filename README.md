@@ -29,3 +29,10 @@ Universiti Teknologi PETRONAS
 
 ### **Technical Skills**
 - Python, SQL, PowerBI, Tableau, M365
+
+## Projects
+### End-to-End Toyota Unser Price Analysis from Mudah.my with Excel
+[Excel End-to-End Project](https://github.com/HaziqHurairah/excel-end-to-end-analysis)
+
+Collecting data by scraping Toyota Unser's price from Mudah.my and conduct end-to-end analysis using excel spreadsheet
+![Unser](/
