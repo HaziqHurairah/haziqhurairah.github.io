@@ -35,4 +35,4 @@ Universiti Teknologi PETRONAS
 [Excel End-to-End Project](https://github.com/HaziqHurairah/excel-end-to-end-analysis)
 
 Collecting data by scraping Toyota Unser's price from Mudah.my and conduct end-to-end analysis using excel spreadsheet
-![Unser](/
+![Unser](/assets/img/Cover.jpeg)
